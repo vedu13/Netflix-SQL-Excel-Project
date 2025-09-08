@@ -12,7 +12,7 @@
 
 [SQL Analysis (Code)](https://github.com/SharifAthar/Netflix-Shows-and-Movies-SQL/blob/main/Netflix_SQL_Analysis.sql)
 
-[Netflix Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYOUR_DASHBOARD_LINK_HERE)
+
 
 * **Business Problem:** Netflix wants to gather useful insights on their shows and movies for their subscribers through their datasets. The issue is, they are working with too much data (approximately 82k rows of data combined) and are unsure how to effectively analyze and extract meaningful insights from it. They need a robust and scalable data analytics solution to handle the vast amount of data and uncover valuable patterns and trends.
 
@@ -205,8 +205,4 @@ By exploring various aspects of the dataset, a comprehensive understanding of Ne
 
 Age certifications played a crucial role in the dataset, impacting both the average IMDB scores and the distribution of movies and shows. The analysis revealed audience preferences for specific age certifications, with TV-14 garnering the highest average score, suggesting its high popularity among viewers. Furthermore, the different age certifications also showed the diverse range of content available on Netflix. Finally, the exploration of the most common genres in Netflix's library provided insights into viewer preferences and content distribution. Comedy emerged as the dominant genre across both movies and shows, followed by documentation and drama. Combinations of genres were also frequent, highlighting the audience's appreciation for multi-genre content.
 
----
 
-This version is **fully updated with Power BI** wherever Tableau was mentioned.
-
-Do you want me to also **add the Power BI dashboard image centered in the README**?
